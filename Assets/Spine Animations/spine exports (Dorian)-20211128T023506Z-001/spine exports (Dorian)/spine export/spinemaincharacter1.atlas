@@ -1,0 +1,130 @@
+
+spinemaincharacter1.png
+size: 2018, 1921
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 2, 1736
+  size: 814, 183
+  orig: 814, 183
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 2, 490
+  size: 1105, 346
+  orig: 1105, 346
+  offset: 0, 0
+  index: -1
+L Arm
+  rotate: true
+  xy: 687, 1401
+  size: 333, 656
+  orig: 333, 656
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: false
+  xy: 1432, 1732
+  size: 294, 187
+  orig: 294, 187
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: false
+  xy: 2, 1452
+  size: 353, 282
+  orig: 353, 282
+  offset: 0, 0
+  index: -1
+L Leg
+  rotate: true
+  xy: 2, 1087
+  size: 363, 542
+  orig: 363, 542
+  offset: 0, 0
+  index: -1
+Main Robe
+  rotate: false
+  xy: 1109, 2
+  size: 907, 834
+  orig: 907, 869
+  offset: 0, 0
+  index: -1
+R Arm
+  rotate: true
+  xy: 1345, 1346
+  size: 333, 656
+  orig: 333, 656
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: true
+  xy: 1728, 1681
+  size: 238, 248
+  orig: 238, 248
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: false
+  xy: 357, 1452
+  size: 328, 282
+  orig: 328, 282
+  offset: 0, 0
+  index: -1
+R Leg
+  rotate: true
+  xy: 546, 1032
+  size: 367, 548
+  orig: 367, 548
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 1096, 838
+  size: 811, 506
+  orig: 811, 506
+  offset: 0, 0
+  index: -1
+wand
+  rotate: false
+  xy: 818, 1736
+  size: 612, 183
+  orig: 612, 183
+  offset: 0, 0
+  index: -1
+
+spinemaincharacter1_2.png
+size: 1409, 1726
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Head Shape
+  rotate: false
+  xy: 2, 2
+  size: 1165, 1017
+  orig: 1165, 1017
+  offset: 0, 0
+  index: -1
+attack soosh
+  rotate: true
+  xy: 2, 1021
+  size: 703, 1405
+  orig: 703, 1405
+  offset: 0, 0
+  index: -1
+
+spinemaincharacter1_3.png
+size: 1907, 1231
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Hat
+  rotate: false
+  xy: 2, 2
+  size: 1903, 1227
+  orig: 1903, 1227
+  offset: 0, 0
+  index: -1

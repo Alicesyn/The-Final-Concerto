@@ -1,0 +1,32 @@
+spinemaincharacter1.png
+size:1931,876
+filter:Linear,Linear
+pma:true
+Cloak_
+bounds:2,2,872,1097
+offsets:0,0,872,1102
+rotate:90
+Hat
+bounds:1101,378,563,496
+Head
+bounds:1666,548,263,326
+offsets:0,3,267,329
+L LEG
+bounds:1101,11,162,400
+offsets:1,0,164,400
+rotate:90
+L SHOE
+bounds:1639,54,169,225
+rotate:90
+Layer 1
+bounds:1639,225,120,290
+rotate:90
+R LEG
+bounds:1101,175,201,400
+offsets:0,1,201,401
+rotate:90
+R LEG SHIN
+bounds:1503,89,134,287
+offsets:0,0,134,288
+R SHOE
+bounds:1666,347,253,199
